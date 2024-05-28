@@ -1,3 +1,9 @@
+body
+{
+  margin: 0;
+  padding: 0;
+}
+
 /* This is an example CSS file, feel free to remove/edit it anytime */
 .footer {
   position: absolute;
